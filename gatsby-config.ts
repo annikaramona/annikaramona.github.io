@@ -8,14 +8,14 @@ const config: GatsbyConfig = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.mjs
-    siteTitle: `Annika`,
-    siteTitleAlt: `Annika Ramona`,
-    siteHeadline: `Annika Ramona - Combining the power of data and public health to drive a healthier future`,
-    siteUrl: `https://anni.info`,
-    siteDescription: `Annika Ramona's personal portfolio`,
+    siteTitle: `Cara`,
+    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
+    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
+    siteUrl: `https://cara.lekoarts.de`,
+    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
-    author: `@annikaramona `,
+    author: `@lekoarts_de`,
   },
   trailingSlash: `never`,
   plugins: [
