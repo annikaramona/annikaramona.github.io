@@ -30,4 +30,4 @@
   src: url(https://fonts.gstatic.com/s/alice/v20/OpNCnoEEmtHa6GcOrg7-hCJ1.woff2) format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-</style><defs><clipPath id="circleClip"><circle cx="50" cy="50" r="50"/></clipPath><clipPath id="polygonClip"><polygon points="0,50 50,100 100,50 50,0"/></clipPath></defs><polygon clip-path="url(#polygonClip)" fill="#CCCCFF" points="0,50 50,100 100,50 50,0" stroke="#242038" stroke-width="8"/><text fill="#242038" font-family="Alice" font-size="40" font-weight="600" text-anchor="middle" x="50" y="60"><tspan dy="0" x="50">A.I</tspan></text></svg>
+</style><defs><clipPath id="circleClip"><circle cx="50" cy="50" r="50"/></clipPath><clipPath id="polygonClip"><polygon points="0,0 0,100 100,100 100,0"/></clipPath></defs><polygon clip-path="url(#polygonClip)" fill="#CCCCFF" points="0,0 0,100 100,100 100,0" stroke="#36013F" stroke-width="6"/><text fill="#36013F" font-family="Alice" font-size="65" font-weight="600" text-anchor="middle" x="50" y="69"><tspan dy="0" x="50">A.I</tspan></text></svg>
